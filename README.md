@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimmy2000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![dimmy2000 GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimmy2000&show_icons=true&count_private=true&include_all_commits=true&custom_title=dimmy2000%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
