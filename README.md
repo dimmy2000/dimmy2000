@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![codewars-profile](https://www.codewars.com/users/dimmy2000/badges/large)](https://www.codewars.com/users/dimmy2000)
 <!--
 **dimmy2000/dimmy2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
