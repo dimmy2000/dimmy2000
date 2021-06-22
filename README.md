@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Django, Docker, SQL**
 - 📑My resume: [python-junior-developer](https://hh.ru/resume/2a560ec2ff090331b70039ed1f387241514364)
 - 📫 How to reach me:
-Telegram: [@Dimkin89](https://t.me/dimkin89)
+Telegram: [@dimmy2000](https://t.me/dimmy2000)
 <!--
 
 - 👯 I’m looking to collaborate on ...
